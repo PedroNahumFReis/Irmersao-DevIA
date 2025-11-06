@@ -3,9 +3,6 @@ Este projeto, desenvolvido durante a Imersão Dev: Agentes de IA da Alura em par
 
 O agente utiliza o poder do Google Gemini e a flexibilidade do LangGraph para criar um fluxo de trabalho que não apenas responde perguntas, mas também toma decisões e executa ações com base na solicitação do usuário. A interação é feita através de uma interface de chat amigável construída com Streamlit.
 
-![Interface do Agente de Service Desk]
-(Dica: Tire um print da sua aplicação rodando e substitua esta linha pela imagem. Como adicionar imagens no README)
-
 ✨ Funcionalidades Principais
 Triagem Inteligente: O agente primeiro analisa a intenção do usuário, classificando a solicitação em AUTO_RESOLVER, PEDIR_INFO ou ABRIR_CHAMADO.
 
